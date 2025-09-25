@@ -14,10 +14,10 @@
 
 ## Использование
 
-Импортируйте пакет как `done`:
+Импортируйте пакет:
 
 ```go
-import "github.com/Komilov31/or"
+import "github.com/Komilov31/done"
 ```
 
 ### Сигнатура функции
